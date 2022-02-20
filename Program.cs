@@ -5,8 +5,8 @@ namespace UC_day3
     {
         static void Main(string[]args)
         {
-            WelcomeToEmplyoeeProgram.WelcomeProgram();
-            //UC_1_AbsentOrPresent.EmployeePresentOrAbsent();
+            //WelcomeToEmplyoeeProgram.WelcomeProgram();
+              UC_1_AbsentOrPresent.EmployeePresentOrAbsent();
             //UC_2_CalculationOfDailyWage.CalEmpWage();
             //UC_3_PartTimeFullTime.PartTimeFullTime();
             //UC_4_EmpCheckUsingCaseStatment.EmpCheckUsingCase();
