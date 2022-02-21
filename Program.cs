@@ -7,8 +7,8 @@ namespace UC_day3
         {
             //WelcomeToEmplyoeeProgram.WelcomeProgram();
             //UC_1_AbsentOrPresent.EmployeePresentOrAbsent();
-              UC_2_CalculationOfDailyWage.CalEmpWage();
-            //UC_3_PartTimeFullTime.PartTimeFullTime();
+            //UC_2_CalculationOfDailyWage.CalEmpWage();
+              UC_3_PartTimeFullTime.PartTimeFullTime();
             //UC_4_EmpCheckUsingCaseStatment.EmpCheckUsingCase();
         }
     }
