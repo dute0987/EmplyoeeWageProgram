@@ -10,7 +10,8 @@ namespace UC_day3
             //UC_2_CalculationOfDailyWage.CalEmpWage();
             //UC_3_PartTimeFullTime.PartTimeFullTime();
             //UC_4_EmpCheckUsingCaseStatment.EmpCheckUsingCase();
-	     UC_5_CalWageForMonth.WageCalculationForMonth();
+	    //UC_5_CalWageForMonth.WageCalculationForMonth();
+            UC_6_MaxMonthAndHourReach.WageForMaxCondition();
         }
     }
 }
